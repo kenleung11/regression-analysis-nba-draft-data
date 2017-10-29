@@ -10,9 +10,9 @@ Data used from [Basketball Reference](https://www.basketball-reference.com/) and
 #### Tools Used:  
 Python  
 Pandas  
-Matplotlib
-Seaborn
-BeautifulSoup
+Matplotlib  
+Seaborn  
+BeautifulSoup  
 scikit-learn    
 
 ***
