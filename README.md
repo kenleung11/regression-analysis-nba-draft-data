@@ -17,4 +17,4 @@ scikit-learn
 
 ***
 
-#### Check out my blog [Predicting the effectiveness of an NBA rookie (Part 1)](https://kennythedatascientist.weebly.com/blog/week-2-project-luther) and [Predicting the effectiveness of an NBA rookie (Part 2)](https://kennythedatascientist.weebly.com/blog/project-luther-continued)
+#### Check out my blog [Predicting the effectiveness of an NBA rookie (Part 1)](https://kennythedatascientist.weebly.com/blog/predictive-model-for-nba-rookie-effectiveness) and [Predicting the effectiveness of an NBA rookie (Part 2)](https://kennythedatascientist.weebly.com/blog/predictive-model-for-nba-rookie-effectiveness-continued)
